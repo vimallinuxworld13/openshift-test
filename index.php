@@ -1,6 +1,7 @@
 <?php
 
 
-print "hello LW"
+print "hello LW";
+print "second line";
 
 ?>
